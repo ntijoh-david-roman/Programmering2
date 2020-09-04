@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace hello_Niklas
+namespace ConsoleApp2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Niklas!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
