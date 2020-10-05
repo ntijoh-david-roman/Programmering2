@@ -1,0 +1,13 @@
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\bin\Debug\netcoreapp3.1\metoder.exe
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\bin\Debug\netcoreapp3.1\metoder.deps.json
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\bin\Debug\netcoreapp3.1\metoder.runtimeconfig.json
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\bin\Debug\netcoreapp3.1\metoder.runtimeconfig.dev.json
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\bin\Debug\netcoreapp3.1\metoder.dll
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\bin\Debug\netcoreapp3.1\metoder.pdb
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\obj\Debug\netcoreapp3.1\metoder.csprojAssemblyReference.cache
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\obj\Debug\netcoreapp3.1\metoder.AssemblyInfoInputs.cache
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\obj\Debug\netcoreapp3.1\metoder.AssemblyInfo.cs
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\obj\Debug\netcoreapp3.1\metoder.csproj.CoreCompileInputs.cache
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\obj\Debug\netcoreapp3.1\metoder.dll
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\obj\Debug\netcoreapp3.1\metoder.pdb
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoder\obj\Debug\netcoreapp3.1\metoder.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\bin\Debug\netcoreapp3.1\metoderUppgift.exe
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\bin\Debug\netcoreapp3.1\metoderUppgift.deps.json
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\bin\Debug\netcoreapp3.1\metoderUppgift.runtimeconfig.json
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\bin\Debug\netcoreapp3.1\metoderUppgift.runtimeconfig.dev.json
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\bin\Debug\netcoreapp3.1\metoderUppgift.dll
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\bin\Debug\netcoreapp3.1\metoderUppgift.pdb
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\obj\Debug\netcoreapp3.1\metoderUppgift.csprojAssemblyReference.cache
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\obj\Debug\netcoreapp3.1\metoderUppgift.AssemblyInfoInputs.cache
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\obj\Debug\netcoreapp3.1\metoderUppgift.AssemblyInfo.cs
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\obj\Debug\netcoreapp3.1\metoderUppgift.csproj.CoreCompileInputs.cache
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\obj\Debug\netcoreapp3.1\metoderUppgift.dll
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\obj\Debug\netcoreapp3.1\metoderUppgift.pdb
+C:\Users\david.roman\Documents\GitHub\Programmering2\HelloWorld\metoder\metoderUppgift\obj\Debug\netcoreapp3.1\metoderUppgift.genruntimeconfig.cache
