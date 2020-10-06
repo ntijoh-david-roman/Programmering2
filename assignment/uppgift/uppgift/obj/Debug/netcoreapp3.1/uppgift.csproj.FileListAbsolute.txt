@@ -1,0 +1,13 @@
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.csprojAssemblyReference.cache
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.AssemblyInfoInputs.cache
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.AssemblyInfo.cs
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.csproj.CoreCompileInputs.cache
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\bin\Debug\netcoreapp3.1\uppgift.exe
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\bin\Debug\netcoreapp3.1\uppgift.deps.json
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\bin\Debug\netcoreapp3.1\uppgift.runtimeconfig.json
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\bin\Debug\netcoreapp3.1\uppgift.runtimeconfig.dev.json
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\bin\Debug\netcoreapp3.1\uppgift.dll
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\bin\Debug\netcoreapp3.1\uppgift.pdb
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.dll
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.pdb
+C:\Users\david.roman\Documents\GitHub\Programmering2\assignment\uppgift\uppgift\obj\Debug\netcoreapp3.1\uppgift.genruntimeconfig.cache
